@@ -1,0 +1,4 @@
+input:checked {
+    text-decoration-style: solid;
+    text-decoration: line-through;
+}
